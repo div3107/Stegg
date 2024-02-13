@@ -44,7 +44,7 @@ Once installed, you can use StealthySteg to hide your secrets in digital media:
 6. Share the encoded media securely with the intended recipient.
 7. To decode a message from encoded media, use the following command:
     ```
-    ./stego -f <secretfile.png> -x -p <Password supplied>
+    python stegg -f <secretfile.png> -x -p <Password supplied>
     ```
     Replace `<secretfile.png>` with the path to the encoded media file and `<Password supplied>` with the password used for encryption.
 
