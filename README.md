@@ -48,7 +48,7 @@ Once installed, you can use StealthySteg to hide your secrets in digital media:
 
 ![Example](example.gif)
 
-In the example above, we encode the message "OpenAI" into an image using StealthySteg.
+In the example above, we encode the message "Hello World" into an image using Stegg.
 
 ## Contributing
 
