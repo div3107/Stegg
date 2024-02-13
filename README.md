@@ -51,7 +51,7 @@ Once installed, you can use StealthySteg to hide your secrets in digital media:
 
 ## Example
 
-![Example](example.gif)
+![Example](https://i.ibb.co/60xLPdL/Screenshot-2024-02-13-173434.png)
 
 In the example above, we encode the message "Hello World" into an image using Stegg.
 
