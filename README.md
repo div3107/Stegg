@@ -1,6 +1,6 @@
 # StealthySteg - Mystery-Themed LSB Steganography Tool
 
-![Steganography](steganography_image.jpg)
+![Steganography](https://i.ibb.co/J3qLnLP/Screenshot-2024-02-13-170019.png)
 
 ## Overview
 
